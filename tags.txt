@@ -1,0 +1,5 @@
+put each Tag in a separated line without the  #
+example : 
+
+instagood 
+travel
